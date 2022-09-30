@@ -10,7 +10,7 @@
 
 O projeto tem como objetivo landing page do banco, página de login e registro com autenticação.
 
-
+ 
 ## Preview
 Interface do usuário.
 </br>
